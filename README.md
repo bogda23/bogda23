@@ -5,6 +5,9 @@
 - 📫 To reach me go to the following link:  https://www.linkedin.com/in/iva%C8%99cu-bogdan-1a8090181/
 - 🔍 Visit my website to see more: https://www.bogdanivascu.com/ 
 
+
+Recommended courses:
+  - Flutter course: https://www.youtube.com/watch?v=3kaGC_DrUnw&ab_channel=FlutterMapp 
 <!---
 bogda23/bogda23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
