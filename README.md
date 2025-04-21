@@ -6,6 +6,7 @@
 - 🔍 Visit my website to see more: https://www.bogdanivascu.com/ 
 
 
+
 Recommended courses:
   - Flutter course: https://www.youtube.com/watch?v=3kaGC_DrUnw&ab_channel=FlutterMapp 
 <!---
